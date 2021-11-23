@@ -1,0 +1,5 @@
+answer Frey
+question What male line does Arya exterminate after returning to Westeros?
+answer Jon Snow, King
+question Who is the half-brother of Arya's half-brother?
+

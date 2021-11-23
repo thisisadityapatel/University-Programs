@@ -1,0 +1,6 @@
+﻿answer Lady Catelyn Stark
+question Who was the faceless man in Braavos?
+answer Frey
+question Who escaped the persecution of House Stark?
+answer House Lannister
+question Who escaped the persecution of House Stark?

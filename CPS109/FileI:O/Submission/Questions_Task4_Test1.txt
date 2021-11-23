@@ -1,0 +1,6 @@
+﻿question Who is the half-brother of Arya's half-brother?
+question Where did Arya return to?
+question Who manipulated Arya's half-brother?
+question When did Arya kill the Night King?
+question Who killed Cersei Lannister?
+question Who destroys King's Landing?

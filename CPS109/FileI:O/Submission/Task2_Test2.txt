@@ -1,0 +1,22 @@
+answer Hound
+question What bodyguard murdered Mycah?
+answer Littlefinger
+question Who does Arya and Sansa meet?
+answer the wolf and the lion
+question What are the Starks and Lannisters?
+answer dragon skulls
+question What do Arya see in the Red Keep?
+answer Khal Drogo
+question Who brought his army across the Narrow Sea with the Targaryen exiles?
+answer Hound
+question What bodyguard murdered Mycah?
+answer angry
+question Who is Arya's father?
+answer the wolf and the lion
+question What are the Starks and Lannisters?
+answer Yoren
+question Who is the recruiter for the Night's Watch?
+answer a boy
+question What is Arya mistaken for?
+answer Khal Drogo
+question What happened to Arya while fighting Jaime?

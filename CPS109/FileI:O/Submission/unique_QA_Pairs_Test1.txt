@@ -1,0 +1,6 @@
+﻿answer Lady Catelyn Stark
+question Who is Arya Stark's wife?
+answer House Lannister
+question Who escaped the persecution of House Stark?
+answer Faceless Man
+question What is Arya trained as at the House of Black and White in Braavos?

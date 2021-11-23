@@ -1,0 +1,12 @@
+answer the Battle of Winterfell
+question When did Arya kill the Night King?
+answer Sandor Clegane
+question Who killed Cersei Lannister?
+answer Daenerys Targaryen
+question Who destroys King's Landing?
+answer Sandor
+question Who convinces Arya to abandon her quest for vengeance?
+answer Arya's younger brother Bran
+question Who is chosen as king in Westeros?
+answer Arya decides to leave Westeros and sail west to discover what lies beyond where the maps of the known world end.
+question What does Arya decide to leave Westeros after bidding farewell to her siblings?
