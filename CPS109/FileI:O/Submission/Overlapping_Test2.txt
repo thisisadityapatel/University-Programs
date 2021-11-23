@@ -1,6 +1,0 @@
-﻿answer Hound
-question What bodyguard murdered Mycah?
-answer the wolf and the lion
-question What are the Starks and Lannisters?
-answer Khal Drogo
-question What happened to Arya while fighting Jaime?
